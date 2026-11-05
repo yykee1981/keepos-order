@@ -1,0 +1,9 @@
+{
+  "name": "KeePOS QR Order",
+  "short_name": "KeePOS Order",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "Browse the restaurant menu and order from your table with KeePOS."
+}
